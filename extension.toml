@@ -1,0 +1,11 @@
+id = "bacon"
+name = "Bacon"
+version = "0.0.1"
+schema_version = 1
+authors = ["bbb651 <bar.ye651@gmail.com>"]
+description = "Rust bacon support using bacon-ls."
+repository = "https://github.com/bbb651/zed-bacon"
+
+[language_servers.bacon]
+name = "Bacon"
+language = "Rust"
